@@ -1,0 +1,19 @@
+
+.title {
+    /* border: royalblue solid 1px; */
+    height: 40px;
+}
+.divider {
+    margin-top: -20px;
+    /* border: royalblue solid 1px; */
+    /* height: 20px; */
+}
+
+.input {
+    width: 17%;
+    margin-bottom: 20px;
+}
+
+.edit{
+    margin-left: 20px;
+}

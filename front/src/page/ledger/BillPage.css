@@ -1,0 +1,19 @@
+
+.topBar {
+
+    margin-bottom: 10px;
+    display: flex;
+}
+
+.addBillButton {
+    margin-left: 68.61px;
+}
+
+/* .billSelecterDiv {
+    width: 950px;
+    display: inline;
+} */
+
+.ant-form-item {
+    margin-right: 10px!important;
+}

@@ -1,0 +1,24 @@
+
+.appName {
+    text-align: center;
+    font-size: 40px;
+    height: auto;
+    /* border: 1px solid rgb(143, 150, 188); */
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.appNameDiv{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.formCardDiv {
+    /* border: 1px solid rosybrown; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.formCard {
+    /* border: 1px solid rgb(184, 53, 53); */
+    border: 1px solid #dddfe2;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1)
+}
